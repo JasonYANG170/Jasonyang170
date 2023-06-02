@@ -4,7 +4,7 @@ body {
     padding: 0;
     height: 100px;
     float: left;/*float(浮动):用于元素水平方向的布局*/
-    width: auto;
+    width: 1550px;
     overflow-x: clip;
     background-image: url("7f819a749e7f41adb564b63feb36a437.jpeg");
     background-size:100%;
