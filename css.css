@@ -232,150 +232,332 @@ box{
     margin-bottom: 20px;
     border-radius: 30px;
     background-color: aqua;
-
+    position: relative;
 }
 boxmain{
-    float: left;
+    float: right;
     display: inline-block;
-    padding: 10px;
-
-    width: 700px;
-    height: 450px;
+    width: 100%;
+    height: 350px;
+    border: 1px solid blue;
     margin-right: 5px;
-    margin-left: 20px;
-    margin-bottom: 20px;
-    border-radius: 30px;
+    padding: 1px;
+    background-size: 100%100%;
+    background-image: url("b7685a26f7fa07631267e2d2549ad440.jpeg");
 
+
+}
+box201{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("屏幕截图(729).png");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box202{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("9071f9a3b649f43a2c67ac702490a615.jpeg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box203{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("727585af6b8a8180543535d2b3b48e6.jpg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box204{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("屏幕截图(730).png");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box205{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("0fdd794f73126d3970952982b96cf95a.jpg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
 
 }
 box2{
     float: right;
     display: inline-block;
-    width: 200px;
-    height: 150px;
-    background-image: url("pic/IMG_20230322_121249.jpg");
+    width: 50%;
+    height: 80%;
+    background-image: url("081aef583498e93251ff4d14f388865d.jpeg");
     background-size: 100%;
     border: 1px solid blue;
     margin-right: 5px;
     padding: 1px;
-
+    background-size: 100%100%;
 
 }
 box21 {
     float: right;
     display: inline-block;
-    width: 255px;
-    height: 150px;
-    background-image: url("pic/1679411563600.png");
+    width: 50%;
+    height: 80%;
+    background-image: url("0c02d1d9855b31cc8a12dd9ab5c0c7ee.jpeg");
     background-size: 100%;
     border: 1px solid blue;
     margin-right: 5px;
     padding: 1px;
-
+    background-size: 100%100%;
 }
 
 box22{
     float: right;
     display: inline-block;
-    width: 200px;
-    height: 250px;
-    background-image: url("pic/1679411782998.jpg");
+    width: 50%;
+    height: 80%;
+    background-image: url("60250915d47a3c4a866e9bad0043b4ae.jpeg");
     background-size: 100%;
     border: 1px solid blue;
     margin-right: 5px;
     padding: 1px;
-
+    background-size: 100%100%;
 
 }
 box23{
     float: right;
     display: inline-block;
-    width: 330px;
-    height: 250px;
-    background-image: url("pic/1679412944166.jpg");
+    width: 50%;
+    height: 80%;
+    background-image: url("IMG_20230322_121249.jpg");
     background-size: 100%;
     border: 1px solid blue;
     margin-right: 5px;
     padding: 1px;
+    background-size: 100%100%;
 
+}
+box231{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("234048156-b8956297-4544-4df4-bb39-dab3bb787b28.jpg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box232{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("236625679-28d68b3b-8bc6-418f-9510-33351ca81a9a.png");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box233{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("233790726-094f32a2-e7d9-4a5d-a029-12c0c852bcf5.png");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box234{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("236625151-90034fe9-a4ff-4060-93cb-d4d2cf95bf50.png");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box235{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("215436368-89a1892a-d8b6-4474-9b3c-0b5bab3e6fb8.png");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box236{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("屏幕截图(540).png");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box237{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("屏幕截图(728).png");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
 
 }
 box24{
     float: right;
     display: inline-block;
-    width: 430px;
-    height: 250px;
-    background-image: url("pic/1679413146605.png");
+    width: 60%;
+    height: 90%;
+    background-image: url("d7543731a68e16f8dba10067786362011.jpg");
     background-size: 100%;
     border: 1px solid blue;
     margin-right: 5px;
     padding: 1px;
-
+    background-size: 100%100%;
 
 }
 box25{
     float: right;
     display: inline-block;
-    width: 400px;
-    height: 300px;
-    background-image: url("pic/微信图片_20230331213901.jpg");
+    width: 60%;
+    height: 90%;
+    background-image: url("061e25d135641e95a6e1b658231be7ae.jpeg");
     background-size: 100%;
     border: 1px solid blue;
     margin-right: 5px;
     padding: 1px;
-
+    background-size: 100%100%;
 
 }
 box26{
     float:left;
     display: inline-block;
-    width: 400px;
-    height: 300px;
-    background-image: url("pic/屏幕截图(4508).png");
+    width: 100%;
+    height:85%;
+    background-image: url("97e9c2741309b5074569e462a2467be12.jpg");
     background-size: 100%;
     border: 1px solid blue;
     margin-right: 5px;
     padding: 1px;
-
+    background-size: 100%100%;
 
 }
 box27{
     float: left;
     display: inline-block;
-    width: 400px;
-    height: 300px;
-    background-image: url("pic/微信图片_20230331223009.jpg");
+    width: 100%;
+    height:85%;
+    background-image: url("f9a12d3339c3468a96063c10a48fcee1.jpg");
     background-size: 100%;
     border: 1px solid blue;
     margin-right: 5px;
     padding: 1px;
 
+    background-size: 100%100%;
 
 }
 box28{
     float: left;
     display: inline-block;
-    width: 400px;
-    height: 300px;
-    background-image: url("pic/IMG_20230321_225135.jpg");
+    width: 100%;
+    height:85%;
+    background-image: url("c046ddbd4ed3ee98f6164da8e8497741.jpg");
     background-size: 100%;
     border: 1px solid blue;
     margin-right: 5px;
     padding: 1px;
 
-
+    background-size: 100%100%;
 }
 box29{
     float: left;
     display: inline-block;
-    width: 400px;
-    height: 280px;
-    background-image: url("pic/b9e72aafe7704a62af821a5a4b8fb5a3.png");
+    width: 100%;
+    height:85%;
+    background-image: url("727585af6b8a8180543535d2b3b48e6.jpg");
     background-size: 100%;
     border: 1px solid blue;
     margin-right: 5px;
     padding: 1px;
+    background-size: 100%100%;
 
+}
+box30{
+    float: left;
+    display: inline-block;
+    width: 100%;
+    height:85%;
+    background-image: url("20569520381680972e936fe032125431.jpg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box31{
+    float: left;
+    display: inline-block;
+    width: 100%;
+    height:85%;
+    background-image: url("1ca3b5b49cdc4f797e143f0e1f993921.jpg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
 
 }
 box4{
@@ -440,5 +622,70 @@ p1{
     margin:10px;
     clear: both;
     display: block;
+
+}
+box401{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("01862be338f0e20a055e2073663e2f6.jpg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box402{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("1ca3b5b49cdc4f797e143f0e1f993921.jpg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box403{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("2da59ef7edf846de20a6ad060d4aa28.jpg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box404{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("c046ddbd4ed3ee98f6164da8e8497741.jpg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
+
+}
+box405{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    height: 80%;
+    background-image: url("f9a12d3339c3468a96063c10a48fcee1.jpg");
+    background-size: 100%;
+    border: 1px solid blue;
+    margin-right: 5px;
+    padding: 1px;
+    background-size: 100%100%;
 
 }
