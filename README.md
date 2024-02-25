@@ -1,11 +1,11 @@
 ### Hi 你好 👋
 |ProPerty                                        |Jasonyang170
 |----------------------------------------------------|---------------------------------------------------------------
-|Editor               |![Emacs](https://shields.io/badge/-Emacs-93f6ef?logo=gnuemacs)![Emacs](https://shields.io/badge/-vscode-93f6ef?logo=vscodium)![Emacs](https://shields.io/badge/-intellijidea-93f6ef?logo=intellijidea)![Emacs](https://shields.io/badge/-androidstudio-93f6ef?logo=androidstudio)![Emacs](https://shields.io/badge/-arduino-93f6ef?logo=arduino)
-|LANG           |  ![C Badge](https://shields.io/badge/-C-3776AB?style=flat&logo=C&logoColor=yellow)  ![C++](https://shields.io/badge/-C++-3776AB?style=flat&logo=cplusplus) ![C Badge](https://shields.io/badge/-kotlin-3776AB?style=flat&logo=kotlin&logoColor=yellow)
-|OS  |  ![debian](https://shields.io/badge/-debian-93f6ef?style=flat&logo=Debian&logoColor=red) ![kali](https://shields.io/badge/-Kali-93f6ef?style=flat&logo=kalilinux&logoColor=red) ![windows](https://shields.io/badge/-windows-936fef?logo=windows) ![openwrt](https://shields.io/badge/-openwrt-93f1ef?logo=openwrt) 
-|DB   | ![mysql](https://shields.io/badge/-mysql-93f6ef?style=for-the-badge&logo=mysql)
-|Terminal|![tmux](https://shields.io/badge/-tmux-123124?logo=tmux) 
+|Editor               |![Emacs](https://shields.io/badge/-Emacs-93f6ef?logo=gnuemacs) ![Emacs](https://shields.io/badge/-Vscode-93f6ef?logo=vscodium) ![Emacs](https://shields.io/badge/-IDEA-93f6ef?logo=intellijidea) ![Emacs](https://shields.io/badge/-androidstudio-93f6ef?logo=AndroidStudio) ![Emacs](https://shields.io/badge/-Arduino-93f6ef?logo=arduino)
+|LANG           |  ![C Badge](https://shields.io/badge/-C-3776AB?style=flat&logo=C&logoColor=yellow)  ![C++](https://shields.io/badge/-C++-3776AB?style=flat&logo=cplusplus) ![C Badge](https://shields.io/badge/-Kotlin-3776AB?style=flat&logo=kotlin&logoColor=yellow)
+|OS  |  ![windows](https://shields.io/badge/-Windows-936fef?logo=windows) ![debian](https://shields.io/badge/-Debian-93f6ef?style=flat&logo=Debian&logoColor=red) ![kali](https://shields.io/badge/-Kali-93f6ef?style=flat&logo=kalilinux&logoColor=red)  ![openwrt](https://shields.io/badge/-OpenWRT-93f1ef?logo=openwrt) ![openwrt](https://shields.io/badge/-Android-93f1ef?logo=android) ![openwrt](https://shields.io/badge/-Harmonyos-93f1ef?logo=harmonyos) 
+|DB   | ![mysql](https://shields.io/badge/-MySQL-93f6ef?style=for-the-badge&logo=mysql)
+|Terminal|![tmux](https://shields.io/badge/-Tmux-123124?logo=tmux) 
 
 |Social                   |Address
 |-----------------------|------------------
