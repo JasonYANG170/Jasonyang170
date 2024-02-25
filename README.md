@@ -1,5 +1,4 @@
 ### Hi 你好 👋
-
 |ProPerty                                        |Jasonyang170
 |----------------------------------------------------|---------------------------------------------------------------
 |Editor               |![Emacs](https://shields.io/badge/-Emacs-93f6ef?logo=gnuemacs)![Emacs](https://shields.io/badge/-vscode-93f6ef?logo=vscodium)![Emacs](https://shields.io/badge/-intellijidea-93f6ef?logo=intellijidea)![Emacs](https://shields.io/badge/-androidstudio-93f6ef?logo=androidstudio)![Emacs](https://shields.io/badge/-arduino-93f6ef?logo=arduino)
