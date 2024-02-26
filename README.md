@@ -11,7 +11,7 @@
 |Social                   |Address          |                  |                  |Server     
 |-----------------------|------------------|------------------|------------------|------------------
 |![Matrix](https://shields.io/badge/-Matrix-ffffff?style=flat&logo=Matrix&logoColor=blue)|@yang:matrix.yang17.site||![Matrix](https://shields.io/badge/-CPU-ffffff?style=flat&logo=intel&logoColor=blue)|Celeron J3160 1.6Ghz 4Core
-|![Email](https://shields.io/badge/-Email-ffffff?style=flat&logo=gmail)|mail@yang17.site||![Matrix](https://shields.io/badge/-RAM-ffffff?style=flat&logo=Kingstontechnology&logoColor=red)|8GB DDR4
+|![Email](https://shields.io/badge/-Email-ffffff?style=flat&logo=gmail)|mail@yang17.site||![Matrix](https://shields.io/badge/-RAM-ffffff?style=flat&logo=Kingstontechnology&logoColor=red)|8GB DDR3L
 |![HTML](https://shields.io/badge/-WebSite-ffffff?style=flat&logo=html5)|yang17.site||![Matrix](https://shields.io/badge/-ROM-ffffff?style=flat&logo=westerndigital&logoColor=black)|128GB MiniPCIE
 |![Email](https://shields.io/badge/-Blog-ffffff?style=flat&logo=wordpress&logoColor=blue)|blog.yang17.site||![Matrix](https://shields.io/badge/-Proxy-ffffff?style=flat&logo=cloudflare)|CDN
 
