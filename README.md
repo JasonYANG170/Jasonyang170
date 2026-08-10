@@ -8,6 +8,6 @@
 |DB   | ![mysql](https://shields.io/badge/-MySQL-93f6ef?style=for-the-badge&logo=mysql) ![mysql](https://shields.io/badge/-SQLite-93f6ef?style=for-the-badge&logo=sqlite)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasonyang170&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonyang170&layout=donut)](https://github.com/anuraghazra/github-readme-stats)​​​​​
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JasonYANG170&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=JasonYANG170&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JasonYANG170&layout=donut&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=JasonYANG170&layout=donut&langs_count=4)​​
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jasonyang170&theme=react-dark)](https://github.com/Jasonyang170)
