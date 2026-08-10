@@ -1,13 +1,11 @@
-### Hi 你好 👋
-|ProPerty                                        |Jasonyang170
-|----------------------------------------------------|---------------------------------------------------------------
-|Editor               |![Emacs](https://shields.io/badge/-Vscode-93f6ef?logo=vscodium) ![Emacs](https://shields.io/badge/-Vim-93f6ef?logo=vim)  ![Emacs](https://shields.io/badge/-IDEA-93f6ef?logo=intellijidea) ![Emacs](https://shields.io/badge/-AndroidStudio-93f6ef?logo=AndroidStudio)  ![Emacs](https://shields.io/badge/-QT-93f6ef?logo=qt)
-|LANG           |  ![C Badge](https://shields.io/badge/-C-3776AB?style=flat&logo=C)  ![C++](https://shields.io/badge/-C++-3776AB?style=flat&logo=cplusplus) ![C Badge](https://shields.io/badge/-Kotlin-3776AB?style=flat&logo=kotlin) ![C Badge](https://shields.io/badge/-Java-3776AB?style=flat&logo=Oracle&logoColor=yellow) ![C Badge](https://shields.io/badge/-JavaScript-3776AB?style=flat&logo=javascript) ![C Badge](https://shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)   ![C Badge](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)  
-|OS  |  ![windows](https://shields.io/badge/-Windows-936fef?logo=Windows) ![debian](https://shields.io/badge/-Debian-93f6ef?style=flat&logo=Debian&logoColor=red) ![debian](https://shields.io/badge/-Ubuntu-93f6ef?style=flat&logo=Ubuntu)![kali](https://shields.io/badge/-Kali-93f6ef?style=flat&logo=kalilinux) ![openwrt](https://shields.io/badge/-OpenWRT-93f1ef?logo=openwrt) ![openwrt](https://shields.io/badge/-Android-93f1ef?logo=android) ![openwrt](https://shields.io/badge/-WearOS-93f1ef?logo=wearos) 
-|Library |![Emacs](https://shields.io/badge/-OpenCV-93f6ef?logo=opencv) ![Emacs](https://shields.io/badge/-Docker-93f6ef?logo=docker) ![Emacs](https://shields.io/badge/-Vue.js-93f6ef?logo=vue.js) ![Emacs](https://shields.io/badge/-Adafruit-93f6ef?logo=adafruit) ![Emacs](https://shields.io/badge/-Lvgl-93f6ef?logo=lvgl) ![Emacs](https://shields.io/badge/-Bootstrap-93f6ef?logo=Bootstrap) ![Emacs](https://shields.io/badge/-Nginx-93f6ef?logo=nginx)
-|DB   | ![mysql](https://shields.io/badge/-MySQL-93f6ef?style=for-the-badge&logo=mysql) ![mysql](https://shields.io/badge/-SQLite-93f6ef?style=for-the-badge&logo=sqlite)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&height=50&lines=Hi+👋+I'm+Jasonyang170;Nice+to+see+u)
 
+![Skills](https://skillicons.dev/icons?i=c,cpp,kotlin,java,js,python,rust)  
+![Tools](https://skillicons.dev/icons?i=vscode,vim,docker,vue,nginx,bootstrap,mysql,sqlite)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JasonYANG170&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=JasonYANG170&show_icons=true&include_all_commits=true)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JasonYANG170&layout=donut&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=JasonYANG170&layout=donut&langs_count=4)​​
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jasonyang170&theme=react-dark)](https://github.com/Jasonyang170)
+![Stats](https://github-stats-extended.vercel.app/api?username=Jasonyang170&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Jasonyang170&layout=donut&langs_count=4&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=Jasonyang170&theme=tokyonight&hide_border=true&date_format=j%20M%20Y)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jasonyang170&theme=tokyo-night&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=1F6FEB)
