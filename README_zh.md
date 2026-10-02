@@ -16,4 +16,4 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=Jasonyang170&theme=tokyonight&hide_border=true&date_format=j%20M%20Y)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jasonyang170&theme=tokyo-night&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=1F6FEB)
+[贡献活动](https://github.com/JasonYANG170?tab=overview)
